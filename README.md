@@ -15,22 +15,22 @@ About me
 - 📍 Based in San Jose, California
 
 Featured work
-
-Project	What I built
-
-- GPU Inference Control Plane	FastAPI control plane for service registration, health-aware scheduling, runtime recovery, streaming chat completions, and vLLM integration
-- Genome2Expression	DNABERT and Enformer-lite pipeline optimized with ONNX, TensorRT, Triton, Kubeflow, MLflow, and DVC
-- KT-Assistant	RAG and agent platform with document synchronization, vector search, FastAPI services, and GPU-backed Kubernetes deployment
-- MiniDFS	Distributed file system in C++ with TCP networking, POSIX threads, consistent hashing, and replication
-- Secure AI Audit Assistant	RAG application with Neo4j graph-based RBAC, JWT authentication, PostgreSQL, audit logs, and asynchronous APIs
+| Project | What I built |
+| --- | --- |
+| **GPU Inference Control Plane** | FastAPI control plane for service registration, health-aware scheduling, runtime recovery, streaming chat completions, and vLLM integration |
+| **Genome2Expression** | DNABERT and Enformer-lite pipeline optimized with ONNX, TensorRT, Triton, Kubeflow, MLflow, and DVC |
+| **KT-Assistant** | RAG and agent platform with document synchronization, vector search, FastAPI services, and GPU-backed Kubernetes deployment |
+| **MiniDFS** | Distributed file system in C++ with TCP networking, POSIX threads, consistent hashing, and replication |
+| **Secure AI Audit Assistant** | RAG application with Neo4j graph-based RBAC, JWT authentication, PostgreSQL, audit logs, and asynchronous APIs |
 
 
 Open source
 I contribute to cloud-native and AI infrastructure projects, including:
-- Kubeflow — validation improvements and dependency/image maintenance
-- Numaflow — OTLP metrics export for Daemon services
-- KAI Scheduler — autoscaling and scheduling improvements
-- Argo Helm — Helm chart work for the Argo CD MCP Server
+- Kubeflow — Kubeflow community — validation improvements and dependency/image maintenance
+- Numaflow — Numaproj — OTLP metrics export for Daemon services
+- KAI Scheduler — NVIDIA — autoscaling and scheduling improvements
+- Grove — NVIDIA Dynamo — native KEDA integration for AI workload autoscaling
+- Argo Helm — Argo Project — Helm chart work for the Argo CD MCP Server
 
 
 Tech stack
