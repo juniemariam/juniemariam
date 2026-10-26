@@ -1,5 +1,6 @@
 Hi, I'm Junie Mariam Varghese 👋
 Software Engineer · AI/ML Infrastructure · GPU Inference
+
 I build reliable software and machine learning systems—from distributed services and cloud platforms to optimized model inference on GPUs.
 
 Currently focused on:
